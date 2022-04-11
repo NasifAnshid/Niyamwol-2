@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+PIKACHU+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+NIYAMWOL+WA+BOT+REPO.;CREATED+BY+NASIF-ANSHID;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/SoIxkUE.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/aqjv8k9.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Niyamwol" src="https://img.shields.io/badge/Niyamwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/NasifAnshid"><img title="Author" src="https://img.shields.io/badge/Author-NasifAnshid/Niyamwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/NasifAnshid">NasifAnshid</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NasifAnshid/Niyamwol-2)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/ameer-kallumthodi/pikachu/fork)
+ Click [FORK](https://github.com/NasifAnshid/Niyamwol-2/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/NasifAnshid/Niyamwol-2 copy this url and change NasifAnshid with your github username and click go<br>
 
 ----
 
@@ -61,16 +61,16 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="https://github.com/NasifAnshid/Niyamwol-2">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/NasifAnshid/followers"><img title="Followers" src="https://img.shields.io/github/followers/NasifAnshid?color=Magenta&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/CNWRCnCe1fZ7g3Wo4M8ij4)
   <div align="center">
        
   </div>
@@ -112,9 +112,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince Rudh`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
+  [![`Prince Rudh`](https://github.com/NasifAnshid.png?size=200)](https://github.com/NasifAnshid/Niyamwol-2)
 
-[`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
+[`Nasif`](https://github.com/NasifAnshid)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
