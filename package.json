@@ -1,14 +1,14 @@
 {
-  "name": "Pikachu",
+  "name": "Niyamwol",
   "version": "7.3.6",
-  "description": "pikachu is the Modified Version of WhatsAsena.",
-  "main": "./pikachu/bot.js",
+  "description": "Niyamwol is the Modified Version of WhatsAsena.",
+  "main": "./Niyamwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ameer-kallumthodi/pikachu.git"
+    "url": "git+https://github.com/NasifAnshid/Niyamwol-2.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,8 +17,8 @@
     "Pinky",
     "Afnanplk"
   ],
-  "author": "Ameer Suhail",
-  "developer": "@ameer-kallumthodi",
+  "author": "NasifAnshid",
+  "developer": "@NasifAnshid",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com//ameer-kallumthodi/pikachu/issues"
